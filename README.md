@@ -1,4 +1,4 @@
-# Chrome Newtab
+# Chrome Newtab extension for Aureal App
 A simple new tab page replacement for Google Chrome.
 
 <h3>Process to install in Google Chrome as extension : </h3>
